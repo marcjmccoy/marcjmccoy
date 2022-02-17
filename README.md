@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcjmccoy
 - 👀 I’m interested in the applications of data science and machine learning in medicine and commerce.
-- 🌱 I’m currently learning everything!
+- 🌱 I’m currently focused on learning intermediate/advanced python, OOP, and more basic C++!
 - 💞️ I’m looking to collaborate on medical research projects.
 - 📫 Reach me on github, linkedin, or via email.
 
