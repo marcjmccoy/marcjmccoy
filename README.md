@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on medical research projects related to genetics and head and neck oncology.
 - 📫 Reach me on github, linkedin, or via email.
 
--- Please note most of my daily coding work is propriety because of my current employement contract. I look forward to spending more time on open source tools upon completion of my summer internship.
+-- Please note most of my daily coding work is propriety because of my current employment contract. I look forward to spending more time on open source tools upon completion of my summer internship. If you have any sources on how to write sharp OOP please send me a PM.
 
 <!---
 marcjmccoy/marcjmccoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
