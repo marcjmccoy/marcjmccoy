@@ -3,6 +3,7 @@ Highlights:
 - I’m currently focused on learning advanced python, OOP, and intermediate C++!
 - I have experience on both server-side and client-side, however most of my experience to this point has been on the server-side.
 - I’m looking to collaborate on medical research projects related to genetics and head and neck oncology.
+- I want to make a difference in the world!
 - If you have datasets and want to do cool things - please reach out.
 - I hold privacy and patient confidentialiy in the highest regard.
 - Reach me on github or linkedin.
