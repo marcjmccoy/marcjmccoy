@@ -6,7 +6,7 @@ Highlights:
 - I want to make a difference in the world.
 - I don't believe in the segmentation of the tech industry, I strive to understand with depth and breadth. No problem is too complex.  
 - If you have data and want to do cool things - reach out.
-- I hold privacy and patient confidentialiy in the highest regard.
+- I hold privacy and patient confidentiality in the highest regard.
 - Lots of my daily activity is through the MMcCoy-Technologies organization page.
 - Reach me on github or linkedin.
 
