@@ -1,9 +1,9 @@
 Highlights:
-- I’m interested in the applications of data science and machine learning in medicine, data science, and commerce.
+- I’m interested in the application of technology and probability theory in medicine, data science, and commerce.
 - I’m currently focused on learning advanced python and intermediate C++!
 - I have experience on both server-side and client-side, however most of my experience to this point has been on the server-side.
 - I’m looking to collaborate on medical research projects related to genetics and oncology.
-- I want to make a difference in the world!
+- I want to make a difference in the world.
 - I don't believe in the segmentation of the tech industry, I strive to understand with depth and breadth. No problem is too complex.  
 - If you have data and want to do cool things - reach out.
 - I hold privacy and patient confidentialiy in the highest regard.
