@@ -6,6 +6,7 @@ Highlights:
 - I want to make a difference in the world!
 - If you have datasets and want to do cool things - please reach out.
 - I hold privacy and patient confidentialiy in the highest regard.
+- Lots of my daily activity is through the MMcCoy-Technologies organization page.
 - Reach me on github or linkedin.
 
 More Detail:
